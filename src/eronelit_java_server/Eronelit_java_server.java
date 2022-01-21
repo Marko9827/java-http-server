@@ -15,7 +15,7 @@ import java.net.Socket;
 import java.util.Date;
 import java.util.StringTokenizer;
 
-
+import eronelit_java_server.server_conf;
 /* 
 	@author Marko9827
 
