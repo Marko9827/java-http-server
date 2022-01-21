@@ -1,6 +1,8 @@
 # java-http-server
 
-Simple java http static web server
+Simple java http static web server 
+
+[![CI](https://github.com/Marko9827/java-http-server/actions/workflows/blank.yml/badge.svg)](https://github.com/Marko9827/java-http-server/actions/workflows/blank.yml)
 
 Get respository
 
