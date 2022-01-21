@@ -12,6 +12,7 @@ Get respository
 | SSH | ```git@github.com:Marko9827/java-http-server.git``` |
 | GitHub CLI | ```gh repo clone Marko9827/java-http-server``` |
 | ZIP | ``` CODE > Download ZIP ``` |
+| Releases | ``` GO Releases > Select a release and download ``` |
 
 Installation
 
